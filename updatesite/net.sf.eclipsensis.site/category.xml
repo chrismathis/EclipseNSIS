@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/net.sf.eclipsensis.feature_0.9.8.qualifier.jar" id="net.sf.eclipsensis.feature" version="0.9.8.qualifier" os="win32" ws="win32" arch="x86,x86_64">
+      <category name="net.sf.eclipsensis"/>
+   </feature>
+   <feature url="features/net.sf.eclipsensis.installoptions.feature_0.9.8.qualifier.jar" id="net.sf.eclipsensis.installoptions.feature" version="0.9.8.qualifier" os="win32" ws="win32" arch="x86,x86_64">
+      <category name="net.sf.eclipsensis"/>
+   </feature>
+   <feature url="features/net.sf.eclipsensis.source.feature_0.9.8.qualifier.jar" id="net.sf.eclipsensis.source.feature" version="0.9.8.qualifier">
+      <category name="net.sf.eclipsensis"/>
+   </feature>
+   <feature url="features/net.sf.eclipsensis.utilities.feature_0.9.3.qualifier.jar" id="net.sf.eclipsensis.utilities.feature" version="0.9.3.qualifier">
+      <category name="net.sf.eclipsensis"/>
+   </feature>
+   <category-def name="net.sf.eclipsensis" label="NSIS for Eclipse"/>
+</site>
